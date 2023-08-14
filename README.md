@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://drive.google.com/file/d/1ElWrCI4V7KpzvNVxkl84P4VBKNJmkjBe/view?usp=sharing
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
 <!-- Recommended tools:
