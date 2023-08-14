@@ -43,7 +43,7 @@ Instagram
 
 Describe any challenges encountered while building the app.
 
-I had a challenge while trying to create the IBAction and getting it updated to being UIButton.
+I encountered a challenge while trying to create the IBAction and getting it updated to being UIButton.
 
 ## License
 
