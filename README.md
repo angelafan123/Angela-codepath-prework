@@ -2,7 +2,7 @@
 
 Submitted by: **Angela Fan**
 
-**Angela Fan Pre-work project** is an app that... [TODO] 
+**Angela Fan Pre-work project** is an app that has a few details about Angela and a button to change the background color to a random color.
 
 Time spent: **3** hours spent in total
 
