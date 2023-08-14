@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *Angela Fan Pre-work project*
 
-Submitted by: **Your Name Here**
+Submitted by: **Angela Fan**
 
-**Name of your app** is an app that... [TODO] 
+**Angela Fan Pre-work project** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -20,21 +20,34 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Discord
+1. Can mention and tag others in thread
+2. Visualize new updates from messages and chats and notifications
 
+Uber
+1. Find details about how far the car is away for expected pickup time
+2. Map showing where you are currently
+
+Instagram
+1. Sharing stories with others
+2. Can update different settings for a post
+   
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I had a challenge while trying to create the IBAction and getting it updated to being UIButton.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
